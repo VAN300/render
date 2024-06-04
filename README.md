@@ -1,1 +1,1 @@
-h1 Simple Cube rendering in terminal on java
+Simple Cube rendering in terminal on java.
